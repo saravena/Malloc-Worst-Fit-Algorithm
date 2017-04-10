@@ -1,7 +1,6 @@
 /*************************************************************
 * Project:   A Custom malloc(): Worst-Fit Algorithm          *
 * Name:      Sabrina Aravena                                 *
-* Due :      Novemeber 6, 2016                               *
 **************************************************************/
 
 #include <stdio.h>
